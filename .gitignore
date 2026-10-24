@@ -1,2 +1,14 @@
 # Local module clones of the same repository.
 /.workspaces/
+
+# Reproducible build outputs and per-user IDE state.
+/artifacts/
+**/MDK-ARM/SmartHomeDemo/
+**/MDK-ARM/Objects/
+**/MDK-ARM/Listings/
+*.uvguix.*
+*.uvgui.*
+*.bak
+*.build_log.htm
+*.lst
+*.mxproject
